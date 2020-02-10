@@ -1,0 +1,23 @@
+{
+  "name": "@polkadot/schnorrkel-js",
+  "collaborators": [
+    "kianenigma <Kian.peymani@gmail.com>",
+    "Jaco Greeff <jacogr@gmail.com>"
+  ],
+  "version": "0.2.0-12",
+  "devDependencies": {
+    "@polkadot/dev": "^0.27.1",
+    "@polkadot/util": "*"
+  },
+  "files": [
+    "schnorrkel_js_wasm.js",
+    "index.js",
+    "index.d.ts",
+    "crypto-polyfill.js",
+    "schnorrkel_js.js",
+    "schnorrkel_js_bg.js",
+    "schnorrkel_js.d.ts"
+  ],
+  "main": "index.js",
+  "types": "index.d.ts"
+}
